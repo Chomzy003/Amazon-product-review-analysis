@@ -164,7 +164,7 @@ Some findings from the analysis:
 **Ejigha Chioma**  
 Data Analyst  
 Email: [Chiomaejigha2@gmail.com]  
-Portfolio: [your portfolio link]
+Portfolio: [My portfolio](https://github.com/Chomzy003)
 
 ---
 
