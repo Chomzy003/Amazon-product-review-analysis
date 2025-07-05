@@ -117,6 +117,9 @@ Features of the dashboard:
 - Slicers for filtering the dashboard by category, price range, and discount range
 
 The dashboard enables sellers and stakeholders to interactively explore product performance and make informed decisions.
+`DASHBOARD SAMPLE`
+<img width="1060" alt="Screenshot 2025-07-05 at 13 42 25" src="https://github.com/user-attachments/assets/164e324f-8f15-4863-aed1-07223c0792d9" />
+
 
 ## Key Insights
 
