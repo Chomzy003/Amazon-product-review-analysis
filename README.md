@@ -139,7 +139,7 @@ Some findings from the analysis:
 
 ## Repository Contents
 
-- `Chioma Ejighaa_Amazon_Analysis_File.xlsx` — Excel file containing:
+- `Chioma_Ejigha_Amazon_Analysis_File.xlsx` — Excel file containing:
   - Sheet 1: Raw Data (Original)
   - Sheet 2: Cleaned Data
   - Sheet 3: Structured Table
@@ -150,7 +150,7 @@ Some findings from the analysis:
 
 ## How to Explore
 
-1. Download and open `Chioma Ejighaa_Amazon_Analysis_File.xlsx` in Microsoft Excel.
+1. Download and open `Chioma_Ejigha_Amazon_Analysis_File.xlsx` in Microsoft Excel.
 2. Review the sheets in order:
    - Original Data
    - Cleaned Data
